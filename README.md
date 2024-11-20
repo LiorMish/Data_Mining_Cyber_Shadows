@@ -11,3 +11,9 @@ The core objectives include:
 - Applying the PageRank algorithm to evaluate the prominence of nations within the cyber conflict network.
 - Developing a predictive model using link prediction techniques.
 - Assessing the transparency of national cyber incident reporting through GDELTDoc analysis.
+
+## Repository Files
+- **IP_to_country_name_cyber_attacks_dataset.py**: This script is instrumental in converting IP addresses to country names, facilitating the creation of the dataset used to construct the graph representing cyber attacks.
+- **cyber_shadows.ipynb**: A comprehensive Jupyter notebook that includes the entire project in detail—data processing, machine learning model implementation, and evaluation.
+- **Cyber Shadows Analyzing the Correlation Between Cyber Attacks and.pdf**: The academic paper that discusses the findings and methodologies of this project in depth.
+
